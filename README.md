@@ -1,4 +1,4 @@
-![CR-3](https://github.com/user-attachments/assets/485b7ff1-c098-40bf-93b4-00058c8729a9)
+![ES-3](https://github.com/user-attachments/assets/ba89fbdc-3f30-4c35-8358-2990d871ead1)
 
 ## 🥁 CarnaCode 2026 - Desafio 08 - Composite
 
