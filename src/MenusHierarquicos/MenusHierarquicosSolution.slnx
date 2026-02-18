@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MenusHierarquicos.Console/MenusHierarquicos.Console.csproj" />
+  <Project Path="MenusHierarquicos.Tests/MenusHierarquicos.Tests.csproj" />
+</Solution>
