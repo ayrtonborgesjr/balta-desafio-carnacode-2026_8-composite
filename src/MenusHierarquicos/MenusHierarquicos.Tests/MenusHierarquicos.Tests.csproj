@@ -18,4 +18,8 @@
         <Using Include="Xunit"/>
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\MenusHierarquicos.Console\MenusHierarquicos.Console.csproj" />
+    </ItemGroup>
+
 </Project>
